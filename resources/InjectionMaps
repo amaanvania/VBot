@@ -1,0 +1,23 @@
+{
+  "inject":
+  {
+    "classes":
+    [
+      {
+        "name": "rw/B",
+        "interface": "api/bridge/insertion/IClient",
+        "getters":
+        [
+        ]
+      }
+    ],
+    "methods":
+    [
+
+    ],
+    "callbacks":
+    [
+
+    ]
+  }
+}

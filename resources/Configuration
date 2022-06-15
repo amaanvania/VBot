@@ -1,0 +1,23 @@
+{
+  "configuration":
+  {
+    "parameters":
+    [
+      {
+        "documentBase": "http://www.runewild.com"
+      },
+      {
+        "codeBase": "http://www.runewild.com"
+      },
+      {
+        "download": "http://www.runewild.com/download/client.jar"
+      },
+      {
+        "desktop": "RuneWild"
+      },
+      {
+        "client": "com.rw.client.EmbedPanel"
+      }
+    ]
+  }
+}

@@ -1,11 +1,11 @@
 # VBot
 
 ## Overview  
-VBot is an automation client developed in Java for RuneWild, extending the base game client to provide a powerful API for script execution. The project includes advanced bytecode analysis and automation scaling on cloud infrastructure.  
+VBot is an automation client developed in Java which provides a powerful API for script execution. The project includes advanced bytecode analysis using Java ASM
 
 ## Features  
-- **Custom API for Automation**: Enhances the RuneWild client with additional scripting capabilities.  
-- **Bytecode Analysis**: Utilizes Java ASM to reverse-engineer the client, identifying over 100 key variables.  
+- **Custom API for Automation**: Enhances the game client with additional scripting capabilities.  
+- **Bytecode Analysis**: Utilizes Java ASM to reverse-engineer the client, identifying over 100 key variables + methods.  
 - **Cloud Scaling**: Deploys and manages automation scripts on AWS EC2 and Google Compute Engine.  
 
 ## Technologies Used  
@@ -23,7 +23,7 @@ VBot is an automation client developed in Java for RuneWild, extending the base 
 3. Configure and execute automation scripts using the provided API.  
 
 ## Disclaimer  
-This project is for educational purposes only. Use responsibly and ensure compliance with RuneWild's terms of service.  
+This project is for educational purposes only.
 
 ## License  
 [MIT License](LICENSE)  
